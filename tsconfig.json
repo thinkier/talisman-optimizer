@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "es2019",
+      "DOM",
+      "ES6",
+      "ES2015.Collection",
+      "DOM.Iterable",
+      "ScriptHost"
+    ]
+  }
+}
